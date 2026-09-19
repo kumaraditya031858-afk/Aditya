@@ -12,7 +12,7 @@
 <tr>
 <td width="50%">
 
-- 📩 How to reach me: **yourmail@gmail.com**
+- 📩 How to reach me: **kumaraditya031858@gmail.com**
 
 - 💻 All of my projects are available on **GitHub**
 
